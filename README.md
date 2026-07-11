@@ -34,6 +34,6 @@ The objective of this project is to build and evaluate machine learning models t
 
 ## Author
 
-Mahmuda Khatun
-PGD in Information Technology, IIT, University of Dhaka
+Mahmuda Khatun  
+PGD in Information Technology, IIT, University of Dhaka  
 MSc in Health Informatics, Bangladesh University of Health Sciences
