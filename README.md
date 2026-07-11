@@ -3,9 +3,9 @@
 Predictive Modeling & Analysis using Secondary Data from Kaggle
 
 ## Problem Statement
-
+<p align="justify">
 The objective of this project is to build and evaluate machine learning models to predict the likelihood of an individual being diagnosed with maternal health risks. The prediction is based on a comprehensive secondary dataset sourced from Kaggle, which combines lifestyle factors and clinical/medical history data (e.g., Age, SystolicBP, DiastolicBP, Blood Sugar, BodyTemp, HeartRate). This project involves data preprocessing, exploratory data analysis (EDA), and comparing multiple machine learning classification algorithms.
-
+</p>
 ## Key Tasks & Objectives
 
 1.  **Data Ingestion & Inspection:** Load the raw secondary dataset from Kaggle (`Maternal_Health_Risk_DataSet.csv`). Inspect data shape, missing values, and check for duplicated entries.
